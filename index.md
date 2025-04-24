@@ -1,3 +1,8 @@
+---
+title: Bilkent Text-to-SQL Research Group
+layout: default
+---
+
 ## Bilkent Text-to-SQL Research Group
 
 - [Members](#members)
