@@ -2,6 +2,7 @@
 title: Bilkent Text-to-SQL Research Group
 layout: default
 ---
+[![View our GitHub Organization](https://img.shields.io/badge/GitHub-Bilkent--Text--to--SQL--Research--Group-181717?style=for-the-badge&logo=github)](https://github.com/Bilkent-Text-to-SQL-Research-Group)
 
 ## Bilkent Text-to-SQL Research Group
 
