@@ -14,7 +14,7 @@ layout: default
 <a name="members"></a>
 ### Members
 - [Prof. Dr. Özgür Ulusoy](https://www.cs.bilkent.edu.tr/~oulusoy/)
-- [Hasan Alp Caferoğlu](https://yilmaztolga.github.io/)
+- [Hasan Alp Caferoğlu](https://www.alpcaferoglu.com/)
 - Ekrem Polat
 
 <a name="publications"></a>
