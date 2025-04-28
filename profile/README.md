@@ -28,8 +28,16 @@
 ### Past Members
 - Dr. Arif Usta
 - Akifhan Karakayalı
+- Mousa F. Azari
 
 <a name="undergraduate_students"></a>
 ### Undergraduate Students
 - İlhami Uluğtürkkan (2024-2025)
 - Mehmet Bahattin Dulkadiroğlu (2024-2025)
+- Efe Kaan Fidanci (2024-2025)
+- Akın Parkan (2000-2021)
+- Büşra Büyükgebiz (2020-2021)
+- Ozan Aydın (2020-2021)
+
+<a name="sponsored_projects"></a>
+### Sponsored Projects
