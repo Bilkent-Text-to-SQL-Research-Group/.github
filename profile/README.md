@@ -6,6 +6,7 @@
 - [Repositories](#repositories)
 - [Past Members](#pastmembers)
 - [Undergraduate Students](#undergraduate_students)
+- [Sponsored Projects](#sponsored_projects)
 
 <a name="members"></a>
 ### Members
@@ -41,3 +42,5 @@
 
 <a name="sponsored_projects"></a>
 ### Sponsored Projects
+- Applying Information Retrieval Paradigms in Natural Language to SQL Translation
+Sponsor: Scientific and Technical Research Council of Turkey - TÜBITAK (Grant No: 118E724), 2019-2021.
