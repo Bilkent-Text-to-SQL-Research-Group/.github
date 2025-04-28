@@ -42,5 +42,5 @@
 
 <a name="sponsored_projects"></a>
 ### Sponsored Projects
-- Applying Information Retrieval Paradigms in Natural Language to SQL Translation
-Sponsor: Scientific and Technical Research Council of Turkey - TÜBITAK (Grant No: 118E724), 2019-2021.
+- Applying Information Retrieval Paradigms in Natural Language to SQL Translation  
+*Sponsor: Scientific and Technical Research Council of Turkey - TÜBITAK (Grant No: 118E724), 2019-2021.
